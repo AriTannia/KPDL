@@ -3,7 +3,8 @@
 > **Tác giả:** Hadi Fanaee-T  
 > **Đơn vị:** Laboratory of Artificial Intelligence and Decision Support (LIAAD), University of Porto, INESC Porto  
 > **Địa chỉ:** Campus da FEUP, Rua Dr. Roberto Frias, 378, 4200 - 465 Porto, Portugal
-> **URL:** https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset
+> **URL:**
+> https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset
 
 ---
 
